@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "c9a416e5335a0d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf40791123216f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note20210709b.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0e04d14cba892cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98c2ae772bf5a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b2670444c2dd73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d38246165b44586",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "element",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfbf3f1c1e25a731",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "f450caca3c8cc4ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d21d752c9bc4c6",
+        "type": "tabs",
+        "dimension": 62.833827893175076,
+        "children": [
+          {
+            "id": "d02182d47c936c79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36a0bbf8def5af19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note20210709b.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "67506cfac5bd2e0a",
+        "type": "tabs",
+        "dimension": 37.166172106824924,
+        "children": [
+          {
+            "id": "535ac1f16e611215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note20210709b.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359,
+    "collapsed": true
+  },
+  "active": "aaf40791123216f7",
+  "lastOpenFiles": [
+    "Note20210709b.md",
+    "Note20210709b - 副本.md",
+    "Note20210708b.md",
+    "未命名.md",
+    "2021.S3/未命名.md",
+    "2021.S3/JavaScript通识.md",
+    "2021.S3/Note20210707a.md",
+    "2021.S3/Note20210707h.md",
+    "2021.S3/Note20210707d.md",
+    "2021.S3/VUE通识.md"
+  ]
+}
