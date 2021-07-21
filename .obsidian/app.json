@@ -1,1 +1,14 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Card",
+  "attachmentFolderPath": "attachment",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "tabSize": 2,
+  "fileSortOrder": "byCreatedTime",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}

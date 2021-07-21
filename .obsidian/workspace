@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c9a416e5335a0d4f",
+    "id": "768d1dd0ae6d4012",
     "type": "split",
     "children": [
       {
-        "id": "aaf40791123216f7",
+        "id": "227e1b82d9253de6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note20210709b.md",
+            "file": "01_Card/Note20210717b.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b0e04d14cba892cc",
+    "id": "736f5c7ae6966082",
     "type": "split",
     "children": [
       {
-        "id": "b98c2ae772bf5a81",
+        "id": "fc744f5c0a271f92",
         "type": "tabs",
         "children": [
           {
-            "id": "49b2670444c2dd73",
+            "id": "94366b5c7638241b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5d38246165b44586",
+            "id": "d549792d6844df88",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "element",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "cfbf3f1c1e25a731",
+            "id": "44aa6f0d405ae46c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,19 +60,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 300
   },
   "right": {
-    "id": "f450caca3c8cc4ba",
+    "id": "b305d526ddad40cc",
     "type": "split",
     "children": [
       {
-        "id": "f2d21d752c9bc4c6",
+        "id": "5766bcdbd85edd4c",
         "type": "tabs",
-        "dimension": 62.833827893175076,
         "children": [
           {
-            "id": "d02182d47c936c79",
+            "id": "db17fa37180ece72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Card/Note20210717b.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d3dab2c4fcaf942",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -83,37 +99,12 @@
             }
           },
           {
-            "id": "36a0bbf8def5af19",
+            "id": "407376800d97fe8e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note20210709b.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "67506cfac5bd2e0a",
-        "type": "tabs",
-        "dimension": 37.166172106824924,
-        "children": [
-          {
-            "id": "535ac1f16e611215",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Note20210709b.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "01_Card/Note20210717b.md"
               }
             }
           }
@@ -121,20 +112,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359,
+    "width": 300,
     "collapsed": true
   },
-  "active": "aaf40791123216f7",
+  "active": "227e1b82d9253de6",
   "lastOpenFiles": [
+    "01_Card/未命名.md",
+    "README.md",
     "Note20210709b.md",
-    "Note20210709b - 副本.md",
+    "Note20210708c.md",
+    "Pasted image 20210709003518.png",
     "Note20210708b.md",
-    "未命名.md",
-    "2021.S3/未命名.md",
-    "2021.S3/JavaScript通识.md",
-    "2021.S3/Note20210707a.md",
-    "2021.S3/Note20210707h.md",
-    "2021.S3/Note20210707d.md",
-    "2021.S3/VUE通识.md"
+    "未命名.md"
   ]
 }

@@ -1,1 +1,19 @@
-["file-explorer","global-search","switcher","graph","backlink","page-preview","note-composer","command-palette","markdown-importer","word-count","open-with-default-app","file-recovery"]
+[
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "graph",
+  "backlink",
+  "tag-pane",
+  "page-preview",
+  "note-composer",
+  "command-palette",
+  "starred",
+  "markdown-importer",
+  "outline",
+  "word-count",
+  "audio-recorder",
+  "open-with-default-app",
+  "workspaces",
+  "file-recovery"
+]
