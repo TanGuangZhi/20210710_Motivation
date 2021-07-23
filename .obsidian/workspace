@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "227e1b82d9253de6",
+        "id": "762b074472d9bfeb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Card/Note20210717b.md",
+            "file": "01_Card/Note20210722h.md",
             "mode": "source"
           }
         }
@@ -24,6 +24,7 @@
       {
         "id": "fc744f5c0a271f92",
         "type": "tabs",
+        "dimension": 85.22895125553914,
         "children": [
           {
             "id": "94366b5c7638241b",
@@ -57,6 +58,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "100ac9fe3ecd35e0",
+        "type": "tabs",
+        "dimension": 14.77104874446086,
+        "children": [
+          {
+            "id": "eefd46f9923e247a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -76,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Card/Note20210717b.md",
+                "file": "01_Card/Note20210722h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Card/Note20210717b.md"
+                "file": "01_Card/Note20210722h.md"
               }
             }
           }
@@ -115,14 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "227e1b82d9253de6",
+  "active": "762b074472d9bfeb",
   "lastOpenFiles": [
     "01_Card/未命名.md",
-    "README.md",
-    "Note20210709b.md",
-    "Note20210708c.md",
-    "Pasted image 20210709003518.png",
-    "Note20210708b.md",
-    "未命名.md"
+    "01_Card/Note20210722e.md",
+    "01_Card/什么会影响到目标承诺.md",
+    "01_Card/为什么需要目标承诺.md",
+    "01_Card/目标的组成结构.md",
+    "01_Card/Note20210717b.md",
+    "01_Card/Note20210721k.md",
+    "01_Card/Note20210721l.md",
+    "01_Card/Note20210722c.md",
+    "01_Card/目标类型和特征.md"
   ]
 }

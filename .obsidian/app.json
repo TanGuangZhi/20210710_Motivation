@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "01_Card",
-  "attachmentFolderPath": "attachment",
+  "attachmentFolderPath": "zz_attachment",
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
@@ -10,5 +10,6 @@
   "fileSortOrder": "byCreatedTime",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": false
 }
