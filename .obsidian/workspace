@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Card/Note20210722h.md",
-            "mode": "source"
+            "file": "01_Card/动机阶段.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Card/Note20210722h.md",
+                "file": "01_Card/动机阶段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Card/Note20210722h.md"
+                "file": "01_Card/动机阶段.md"
               }
             }
           }
@@ -133,15 +133,15 @@
   },
   "active": "762b074472d9bfeb",
   "lastOpenFiles": [
-    "01_Card/Note20210722h.md",
+    "01_Card/动机阶段.md",
+    "01_Card/目标心态.md",
+    "01_Card/Note20210727e.md",
     "01_Card/未命名.md",
-    "01_Card/Note20210722e.md",
-    "01_Card/什么会影响到目标承诺.md",
-    "01_Card/为什么需要目标承诺.md",
-    "01_Card/目标的组成结构.md",
+    "01_Card/什么是目标.md",
+    "01_Card/Note20210709b.md",
+    "01_Card/Note20210717a.md",
     "01_Card/Note20210717b.md",
-    "01_Card/Note20210721k.md",
-    "01_Card/Note20210721l.md",
-    "01_Card/Note20210722c.md"
+    "01_Card/行为抑制系统BIS.md",
+    "01_Card/行为激活系统BAS.md"
   ]
 }
